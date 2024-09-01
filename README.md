@@ -82,4 +82,3 @@ Name: Yosef
 
 [My LinkedIn Profile](https://www.linkedin.com/in/yousef-mohamed-274a58255/)
 
-...
