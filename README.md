@@ -58,7 +58,28 @@ The project is organized into the following files and directories:
 
 ## Installation and Setup
 
-...
+Clone the repository:
+
+```bash
+Copy code
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name/terraform
+```
+Initialize Terraform:
+```bash
+Copy code
+terraform init
+```
+Plan the infrastructure:
+```bash
+Copy code
+terraform plan
+```
+Apply the configuration:
+```bash
+Copy code
+terraform apply
+```
 
 ## Usage
 
@@ -78,7 +99,7 @@ This screenshot shows the output of the `terraform apply` command, indicating th
 ## Contact Information
 For any inquiries or issues, please contact:
 
-Name: Yosef 
+Name: Yousef mohamed 
 
 [My LinkedIn Profile](https://www.linkedin.com/in/yousef-mohamed-274a58255/)
 
