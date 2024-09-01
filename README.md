@@ -8,14 +8,14 @@ This project demonstrates how to use Terraform to automate the setup of a basic 
 
 After successfully deploying the infrastructure and accessing the EC2 instance via its public IP, you should see the default Apache server page in your browser, as shown below:
 
-![Default Apache Server Page](screenshots/apache-default-page.png)
+![Default Apache Server Page](Screenshots/apache-default-page.png)
 
 
 ## Architecture Diagram
 
 Below is a visual representation of the infrastructure set up by this Terraform code:
 
-![AWS Infrastructure Diagram](screenshots/infrastructure-diagram.png)
+![AWS Infrastructure Diagram](Screenshots/infrastructure-diagram.png)
 
 ## Table of Contents
 
@@ -72,7 +72,7 @@ After running `terraform apply`, you will get the following output:
   
 This screenshot shows the output of the `terraform apply` command, indicating the successful creation of resources:
 
-![Terraform Apply Output](screenshots/terraform-apply-output.png)
+![Terraform Apply Output](Screenshots/terraform-apply-output.png)
 
 
 ## Contact Information
