@@ -53,8 +53,8 @@ The project is organized into the following files and directories:
 ```
 ## Prerequisites
 
--Terraform installed on your local machine.
--AWS CLI configured with appropriate credentials.
+- Terraform installed on your local machine.
+- AWS CLI configured with appropriate credentials.
 
 ## Installation and Setup
 
