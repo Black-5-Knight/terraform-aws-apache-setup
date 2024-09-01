@@ -50,7 +50,7 @@ The project is organized into the following files and directories:
 │
 ├── README.md                   # Project documentation
 
-
+```
 ## Prerequisites
 
 Terraform installed on your local machine.
@@ -71,7 +71,7 @@ After running `terraform apply`, you will get the following output:
 - **Public IP Address**: The IP address of the EC2 instance, which you can use to access the Apache server.
   
 This screenshot shows the output of the `terraform apply` command, indicating the successful creation of resources:
-```
+
 ![Terraform Apply Output](screenshots/terraform-apply-output.png)
 
 
