@@ -61,23 +61,20 @@ The project is organized into the following files and directories:
 Clone the repository:
 
 ```bash
-Copy code
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name/terraform
 ```
 Initialize Terraform:
 ```bash
-Copy code
+
 terraform init
 ```
 Plan the infrastructure:
 ```bash
-Copy code
 terraform plan
 ```
 Apply the configuration:
 ```bash
-Copy code
 terraform apply
 ```
 
