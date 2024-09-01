@@ -62,7 +62,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name/terraform
+cd terraform-aws-apache-setup/terraform
 ```
 Initialize Terraform:
 ```bash
