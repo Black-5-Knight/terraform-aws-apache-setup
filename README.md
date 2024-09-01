@@ -80,6 +80,6 @@ For any inquiries or issues, please contact:
 
 Name: Yosef 
 
-LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yousef-mohamed-274a58255/)
+[My LinkedIn Profile](https://www.linkedin.com/in/yousef-mohamed-274a58255/)
 
 ...
