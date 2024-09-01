@@ -44,5 +44,3 @@ The project is organized into the following files and directories:
 │   ├── vpc.tf                  # VPC and Subnet configuration
 │
 ├── README.md                   # Project documentation
-├── .gitignore                  # Specifies files and directories to be ignored by Git
-├── infrastructure-diagram.png  # Image showing the AWS infrastructure architecture
